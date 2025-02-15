@@ -23,7 +23,7 @@ body{
 }
 
 .first-page{
-  background-image: url("/HTML_CSS_Projects/Landing Page 2/bg1.jpg"); 
+  background-image: url("/Landing_Pages/Landing Page 2/bg1.jpg"); 
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -95,7 +95,7 @@ body{
   background-color:aqua ;
   margin-top: 0%;
   background: rgb(0,51,102);
-  background-image: url("/HTML_CSS_Projects/Landing page 2/bg2.png");
+  background-image: url("/Landing_Pages/Landing page 2/bg2.png");
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 10px;
@@ -138,7 +138,7 @@ body{
 }
 
 .last-page{
-  background-image: url("/HTML_CSS_Projects/Landing Page 2/bg3.png");
+  background-image: url("/Landing_Pages/Landing Page 2/bg3.png");
   background-size: cover;
   background-repeat: no-repeat;
   height: 500px;
